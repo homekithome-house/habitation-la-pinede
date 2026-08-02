@@ -20,7 +20,7 @@ Foyer du **site public de l'Habitation La Pinède** (décision Benjamin 2026-08-
 - **Miroirs** : `privacy-policy.html` existe aussi dans `HLP/hlp-media/` — **arbitré le 2026-08-02 : cette version fait foi.** Le texte juridique des deux fichiers est **strictement identique** (vérifié au diff) ; l'écart est cosmétique (favicon + logo ajoutés ici le 07/07 pour la review TikTok) et la copie `hlp-media` est antérieure (22/05) **et cassée si servie** (les 5 icônes qu'elle référence n'existent pas dans ce repo). Doublon à supprimer — voir QUESTION.
 
 ## M'adresser un travail
-Chip `spawn_task` cwd=`/Users/benjamindupouy/Developer/Claude-Projet/HLP/habitation-la-pinede` ·
+Adressage : `send_message` à une session ouverte sur ce dossier, sinon agent d'exécution lancé directement dedans (jamais de chip) · cwd=`/Users/benjamindupouy/Developer/Claude-Projet/HLP/habitation-la-pinede` ·
 brief à froid : lire `ETAT.md` d'abord (statut dormant, question ouverte) · ne rien construire sans cadrage explicite.
 
 ## QUESTION
